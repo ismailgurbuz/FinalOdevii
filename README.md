@@ -52,7 +52,6 @@ Projede nesnelerin bellekteki seyri şu aşamalardan geçer:
 2. Proje dizinine gidin ve Maven ile derleyin:
   ```bash
    mvn clean compile
-
-
+##
   3.  Main.java dosyasını çalıştırarak ozgecmis.pdf çıktısını elde edin.
    
